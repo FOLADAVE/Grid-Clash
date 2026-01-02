@@ -2,7 +2,7 @@
 
 Grid Clash is a modern, interactive Tic-Tac-Toe game built with React.js, featuring multiple play modes, smart CPU logic, sound effects, and a polished, responsive UI.
 
-🔗 Live Demo: https://grid-clash.vercel.app
+🔗 Live Demo: https://grid-clash-nine.vercel.app
 
 📦 GitHub Repo: https://github.com/your-username/grid-clash
 
